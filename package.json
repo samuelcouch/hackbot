@@ -23,6 +23,7 @@
     "jsdoc": "^3.3.0-beta2",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
+    "pretty-slack": "^1.2.3",
     "qs": "^2.3.3",
     "request": "^2.53.0",
     "sentiment": "^1.0.2",
